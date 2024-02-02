@@ -1,0 +1,2 @@
+SELECT "Valor (R$)" FROM public."fiis_dividendos"
+where "Codigo" = {{select_ticket.selectedOptionValue}}

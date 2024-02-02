@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "JSObject3",
+    "pageId": "Investors",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Investors_JSObject3",
+  "deleted": false,
+  "gitSyncId": "65b8435410a04e1bc7ae1857_65badb24ed53e60c7f772975"
+}

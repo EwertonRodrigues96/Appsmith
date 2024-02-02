@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "Calculate",
+    "pageId": "Investors",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Investors_Calculate",
+  "deleted": false,
+  "gitSyncId": "65b8435410a04e1bc7ae1857_65bbb2d2fb719f5e28381aab"
+}

@@ -1,0 +1,6 @@
+SELECT
+  *
+FROM
+  public.fiis_dividendos
+WHERE
+  "Codigo" ilike '%{{select_ticket.filterText}}%'
