@@ -29,16 +29,6 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Investors_SelectQuery",
-              "name": "SelectQuery",
-              "confirmBeforeExecute": false,
-              "pluginType": "SAAS",
-              "jsonPathKeys": [
-                "(data_table.pageNo - 1) * data_table.pageSize"
-              ],
-              "timeoutInMillisecond": 10000
-            },
-            {
               "id": "Investors_Select_public_fiis_dividendos1",
               "name": "Select_public_fiis_dividendos1",
               "confirmBeforeExecute": false,

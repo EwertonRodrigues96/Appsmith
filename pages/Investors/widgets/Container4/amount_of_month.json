@@ -18,7 +18,7 @@
         {"key": "onSubmit"}
     ],
     "resetOnSubmit": true,
-    "leftColumn": 27,
+    "leftColumn": 30,
     "dynamicBindingPathList": [{"key": "accentColor"}],
     "labelStyle": "BOLD",
     "inputType": "NUMBER",
