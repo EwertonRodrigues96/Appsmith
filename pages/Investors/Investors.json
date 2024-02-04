@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 980,
+          "bottomRow": 1170,
           "containerStyle": "none",
           "snapRows": 125,
           "parentRowSpace": 1,
@@ -53,6 +53,16 @@
             {
               "id": "Investors_select_dividendo_by_ticket",
               "name": "select_dividendo_by_ticket",
+              "confirmBeforeExecute": false,
+              "pluginType": "DB",
+              "jsonPathKeys": [
+                "select_ticket.selectedOptionValue"
+              ],
+              "timeoutInMillisecond": 10000
+            },
+            {
+              "id": "Investors_select_payment",
+              "name": "select_payment",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
               "jsonPathKeys": [

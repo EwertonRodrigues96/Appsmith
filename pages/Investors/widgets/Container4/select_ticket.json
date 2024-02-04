@@ -61,6 +61,6 @@
     "mobileLeftColumn": 24,
     "maxDynamicHeight": 9000,
     "onFilterUpdate": "{{\n            Select_public_fiis_dividendos1.run();\n            \n          }}",
-    "onOptionChange": "{{select_dividendo_by_ticket.run();\nselect_cotacao_by_ticket.run()}}",
+    "onOptionChange": "{{select_dividendo_by_ticket.run();\nselect_cotacao_by_ticket.run();\nselect_payment.run()}}",
     "minDynamicHeight": 4
 }
